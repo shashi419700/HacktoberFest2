@@ -1,0 +1,39 @@
+# ⚡ NeuroWeb — AI Website Builder
+
+NeuroWeb is an **AI-powered website generator** built with **React**, **Three.js**, and **React Three Fiber**.  
+It allows users to input a prompt (e.g., “Build me a portfolio website”) and generates full HTML website code in real-time with beautiful **3D loaders** and **live previews**.
+
+---
+
+## 🌐 Live Demo
+👉 [Coming Soon on Render](https://web-maker-at32.onrender.com)
+
+---
+
+## 🚀 Features
+
+- 🧠 **AI Integration** — Connects with your backend AI API to generate websites from text prompts.
+- 💻 **Live Code Editor** — Edit generated code directly inside the app using `react-simple-code-editor`.
+- 🌈 **Real-Time Preview** — Instantly preview the generated HTML website.
+- 🎨 **3D Animated Loaders** — Built using `Three.js` and `@react-three/fiber`.
+- 🌙 **Dark / Light Mode Toggle**.
+- 📋 **Copy & Download Options** for generated code.
+- ⚡ **Responsive Design** with Tailwind CSS.
+
+---
+
+## 🧩 Tech Stack
+
+| Frontend | Description |
+|-----------|--------------|
+| React | Core frontend framework |
+| Tailwind CSS | Modern styling |
+| Three.js + React Three Fiber | 3D visual effects and loaders |
+| Axios | API communication |
+| Prism.js | Syntax highlighting |
+| react-simple-code-editor | Editable code area |
+
+---
+
+## 📁 Folder Structure
+
